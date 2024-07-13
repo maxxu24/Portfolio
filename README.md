@@ -1,6 +1,3 @@
-# Portfolio
+# Sleep Cycle Analysis
 
-### Education
-Statistics & Data Science, B.S.
-
-### Projects
+### Project
