@@ -8,7 +8,9 @@ To achieve this, I first created data visualizations to illustrate the correlati
 ### Getting Started
 Export the data from the Sleep Cycle app: 
 * Access Settings > Navigate to Export Data > Enter Email Address > Download "sleepdata.csv" attachment in same location as project files
+
 Access Coding files through Jupyter Notebook
+
 Import data into dataframe using Pandas library:
 * data = pd.read_csv("sleepdata.csv", delimiter = ";", header = 0)
 
