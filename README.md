@@ -45,10 +45,12 @@ Used scikit-learn library:
 * from sklearn.model_selection import train_test_split
 * from sklearn.linear_model import LinearRegression
 * from sklearn.metrics import mean_squared_error
+
 Linear Regression model for time in bed effect on sleep quality:
 * Split 80% of data to train model and 20% to test
 * Calculated Mean Squared Error to measure model's accuracy
 * ScatterPlot of Linear Reg Line with test data
+
 Linear Regression Model to predict Sleep Quality based on variables with atleast moderate correlation (Spearman rank correlation > .3)
 * Filtered features with Spearman correlation above threshold
 * Retrain the model using only significant features
