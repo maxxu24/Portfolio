@@ -33,7 +33,7 @@ Used Matplotlib and Seaborn libraries to create visualizations
 * Scatterplot of Snoring vs Steps w/ linear reg line
 * Scatterplot of Snoring vs Regularity w/ linear reg line
 
-### Calculating strength of correlation:
+### Calculating Strength of Correlation:
 Sleep_Cycle_Visualizations.ipynb file:
 Used Scipy library: from scipy.stats import spearmanr
 * Calculated Spearman Rank Correlation to measure strength and direction of association between two ranked variables without assuming linearity
